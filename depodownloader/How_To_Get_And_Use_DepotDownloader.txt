@@ -11,7 +11,8 @@ Follow the instructions inside the batch file
 Once the download is complete, find the file in the newly downloaded depot "sharedassets1.resource" (it should be roughly 554mb)
 Rename it to "oldmusic.resource"
 Copy the "oldmusic.resource" file to your steam LaMulana2_Data folder
-Copy the "LaMulana2OldMusic.exe" file to your LaMulana2 folder (make sure it's the right version, ex. folder 1_8_8_2 = La Mulana 2 Version 1.8.8.2)
+Go to the "patches" folder in this repository, and find the matching folder for your La Mulana 2 version (folder 1_8_8_2 = La Mulana 2 Version 1.8.8.2)
+Copy the "LaMulana2OldMusic.exe" file from there to your steam LaMulana2 folder
 Run the exe and click Next a lot.
 Done! Launch the game and enjoy.
 
