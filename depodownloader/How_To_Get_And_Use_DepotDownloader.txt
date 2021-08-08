@@ -1,0 +1,18 @@
+You can get depot downloader here:
+https://github.com/SteamRE/DepotDownloader
+
+Click on "Releases", download the latest version zip, and extract it to a folder.
+Find "DepotDownloader.exe" in that folder.
+Copy the "get_old_depot.bat" file from this repository into the same folder as "DepotDownloader.exe".
+Open the "get_old_depot.bat" file you just copied over with notepad
+Follow the instructions inside the batch file
+(replace USERNAME and PASSWORD with your steam credentials, run the batch file, enter your steam guard key, and wait)
+
+Once the download is complete, find the file in the newly downloaded depot "sharedassets1.resource" (it should be roughly 554mb)
+Rename it to "oldmusic.resource"
+Copy the "oldmusic.resource" file to your steam LaMulana2_Data folder
+Copy the "LaMulana2OldMusic.exe" file to your LaMulana2 folder (make sure it's the right version, ex. folder 1_8_8_2 = La Mulana 2 Version 1.8.8.2)
+Run the exe and click Next a lot.
+Done! Launch the game and enjoy.
+
+If you wish to revert the mod, rename "sharedassets1.assets.bak0000" to "sharedassets1.assets", replacing the other one
