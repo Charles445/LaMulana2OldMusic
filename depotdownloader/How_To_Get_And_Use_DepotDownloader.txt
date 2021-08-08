@@ -8,7 +8,8 @@ Open the "get_old_depot.bat" file you just copied over with notepad
 Follow the instructions inside the batch file
 (replace USERNAME and PASSWORD with your steam credentials, run the batch file, enter your steam guard key, and wait)
 
-Once the download is complete, find the file in the newly downloaded depot "sharedassets1.resource" (it should be roughly 554mb)
+Once the download is complete, DELETE THE BATCH FILE and delete it in your Recycle Bin. You don't want to leave your steam credentials out in the open like that.
+Find the file in the newly downloaded depot "sharedassets1.resource" (it should be roughly 554mb)
 Rename it to "oldmusic.resource"
 Copy the "oldmusic.resource" file to your steam LaMulana2_Data folder
 Go to the "patches" folder in this repository, and find the matching folder for your La Mulana 2 version (folder 1_8_8_2 = La Mulana 2 Version 1.8.8.2)
